@@ -1,11 +1,8 @@
-Heyy guyss!!!!!!!!!!!!!!
-This is Dark_X
-I have a couple of certificate in cyber security field from ec-council
+Incognito 2.0 is a CTF conducted on 17th april 2021 by Equinox, TryHackMe and IIIT Lucknow
 
-1.CSCU- Certified Secure Computer User
-2.CEH- Certified Ethical Hacker
+![image](https://user-images.githubusercontent.com/70789856/115571070-46d80880-a2dc-11eb-8b55-c000c8a9803e.png)
 
 
-if u want to contact me for anything like doubts or etc u can contact me in my discord
+It was awesome CTF 
 
-https://discord.gg/V36VbWt
+It was jeoprady and boot2root style CTF
