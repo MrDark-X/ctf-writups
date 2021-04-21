@@ -6,3 +6,5 @@ Incognito 2.0 is a CTF conducted on 17th april 2021 by Equinox, TryHackMe and II
 It was awesome CTF 
 
 It was jeoprady and boot2root style CTF
+
+we Team C!p#3r stood in 29th place out of 319
